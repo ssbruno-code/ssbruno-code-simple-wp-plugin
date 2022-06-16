@@ -1,5 +1,5 @@
 # Simple WP Plugin Boilerplate
 
-## Description
+### Description
 
-### This is a startup blugin for a simple wp plugins.
+This is a startup blugin for a simple wp plugin.
