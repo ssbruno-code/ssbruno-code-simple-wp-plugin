@@ -2,4 +2,4 @@
 
 ### Description
 
-This is a startup blugin for a simple wp plugin.
+This is a startup code for a simple wp plugin.
