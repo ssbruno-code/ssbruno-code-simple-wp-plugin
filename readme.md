@@ -2,4 +2,4 @@
 
 ## Description
 
-### This is a startup blugin for simples wp plugins.
+### This is a startup blugin for a simple wp plugins.
